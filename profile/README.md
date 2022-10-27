@@ -25,4 +25,4 @@ We have plenty of [repositories](https://github.com/orgs/Python-Community-News/r
 License
 -------
 
-All projects under this are licensed under the [MIT License](https://mit-license.org)
+All projects under this are licensed under the [MIT License](../LICENSE)
