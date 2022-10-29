@@ -21,8 +21,3 @@ You can contribute topics to bring up in the show. Simply create a [new issue](h
 
 ### Contributing Code
 We have plenty of [repositories](https://github.com/orgs/Python-Community-News/repositories). Be sure to check out the contrubuting guidelines for the repository you want to contribute to.
-
-License
--------
-
-All projects under this are licensed under the [MIT License](../LICENSE)
