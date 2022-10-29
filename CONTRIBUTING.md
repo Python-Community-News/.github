@@ -1,6 +1,8 @@
 CONTRIBUTING.md
 
-The claiming steps:
+## Claiming an Issue
+
+Here are the steps to claiming an issue:
 
 1. Enter a comment that says something to the effect of "I will work on this" 
 2. wait for a 👍🏾 from one of the organizers.
