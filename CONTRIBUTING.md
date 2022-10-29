@@ -4,7 +4,7 @@
 - [Claiming an Issue](#Claiming-an-Issue)
 
 ## Claiming an Issue
-[Quick-Navigation](#Quick-Navigation)
+[Back to Table of Contents](#Table-of-Contents)
 
 Here are the steps to claiming an issue:
 
