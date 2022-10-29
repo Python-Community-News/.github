@@ -1,6 +1,11 @@
-CONTRIBUTING.md
+# CONTRIBUTING.md
+
+## Quick-Navigation
+- [text Sizes](#text-Size-1)
+- [Claiming an Issue](#Claiming-an-Issue)
 
 ## Claiming an Issue
+[Quick-Navigation](#Quick-Navigation)
 
 Here are the steps to claiming an issue:
 
