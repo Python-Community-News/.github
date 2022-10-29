@@ -1,7 +1,6 @@
 # CONTRIBUTING.md
 
-## Quick-Navigation
-- [text Sizes](#text-Size-1)
+## Table of Contents
 - [Claiming an Issue](#Claiming-an-Issue)
 
 ## Claiming an Issue
